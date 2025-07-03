@@ -1,0 +1,2 @@
+Aqui esta la data de Irradiación 
+Entrenamiento de redes neuronales
